@@ -29,8 +29,8 @@
     font-size: 2rem;
 }
 #about .col-left .about-img {
-    height: 100%;
-    width: 100%;
+    height: 50%;
+    width: 50%;
     position: relative;
     border: 10px solid white;
 }
@@ -44,5 +44,6 @@
     border: 7px solid crimson;
     z-index: -1;
 }
+
 
 /* End About section */
